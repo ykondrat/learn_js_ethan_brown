@@ -1,0 +1,26 @@
+{
+  "name": "learn_js_one",
+  "version": "1.0.0",
+  "description": "Learn JavaScript",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ykondrat/learn_js_ethan_brown.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ykondrat/learn_js_ethan_brown/issues"
+  },
+  "homepage": "https://github.com/ykondrat/learn_js_ethan_brown#readme"
+}
